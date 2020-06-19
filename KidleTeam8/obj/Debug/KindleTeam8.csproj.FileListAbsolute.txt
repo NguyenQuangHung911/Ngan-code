@@ -1,0 +1,256 @@
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.exe.config
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.exe
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.pdb
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.exe
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.pdb
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe.config
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.pdb
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.LibraryPDF.resources
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.exe
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.pdb
+C:\Users\as\Documents\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.LibraryPDF.resources
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.exe
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.pdb
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe.config
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.pdb
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\PdfiumViewer.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.xml
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\PdfiumViewer.xml
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.LibraryFile.resources
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.exe
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KidleTeam8.pdb
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe.config
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.exe
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\KidleTeam8.pdb
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\Lap Trinh Windows\Projiect nhóm 8\ReadFileText-master\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.LibraryFile.resources
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.frmMDI.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.frmMDI.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KidleTeam8.LibraryFile.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-83\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.frmMDI.resources
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.LibraryFile.resources
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.ReadPDF.resources
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-8\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\ADMIN\Source\Repos\Project-8\KidleTeam8\obj\Debug\KidleTeam8.CreateFolder.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.frmMDI.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.LibraryFile.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.CreateFolder.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.ReadPDF.resources
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\GitHub\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\KindleTeam8.pdb
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\itextsharp.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\PdfiumViewer.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\itextsharp.xml
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\PdfiumViewer.xml
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.Views.frmMDI.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.Views.LibraryFile.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.Views.CreateFolder.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.Views.ReadPDF.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.exe
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.pdb
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\EntityFramework.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\EntityFramework.xml
+C:\Users\as\Documents\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.frmMDI.resources
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.LibraryFile.resources
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.CreateFolder.resources
+C:\Users\as\Documents\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.ReadPDF.resources
+C:\Users\nguye\Source\Repos\Project-82\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+D:\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe.config
+D:\Project-8\KidleTeam8\bin\Debug\KindleTeam8.exe
+D:\Project-8\KidleTeam8\bin\Debug\KindleTeam8.pdb
+D:\Project-8\KidleTeam8\bin\Debug\EntityFramework.dll
+D:\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project-8\KidleTeam8\bin\Debug\itextsharp.dll
+D:\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.dll
+D:\Project-8\KidleTeam8\bin\Debug\EntityFramework.xml
+D:\Project-8\KidleTeam8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project-8\KidleTeam8\bin\Debug\itextsharp.xml
+D:\Project-8\KidleTeam8\bin\Debug\PdfiumViewer.xml
+D:\Project-8\KidleTeam8\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\Project-8\KidleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project-8\KidleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project-8\KidleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project-8\KidleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.frmMDI.resources
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.LibraryFile.resources
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.CreateFolder.resources
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Properties.Resources.resources
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.Views.ReadPDF.resources
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csproj.CopyComplete
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.exe
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.pdb
+D:\Project-8\KidleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
